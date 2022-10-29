@@ -1,10 +1,10 @@
 <!--Readme pour mon profil github personnel-->
-##Salut tout le monde
+## Salut tout le monde
 
-###Statistiques Github
+### Statistiques Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&theme=radical)]
-###Langages les plus utilisés###
+### Langages les plus utilisés
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngounou26)](https://github.com/vngounou26/github-readme-stats)
 
