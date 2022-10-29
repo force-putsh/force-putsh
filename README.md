@@ -45,11 +45,11 @@
 
 //**Statistiques Github**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalil-Abdellatif&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&theme=radical)
 
 //**Langages les plus utilisés**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Abdellatif&layout=compact)](
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngounou26&layout=compact)](
 
 
 <!--
