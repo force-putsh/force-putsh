@@ -42,15 +42,12 @@
   - GitFlow
   - Kanban
   - UML
+**Statistiques Github**
 
-//**Statistiques Github**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&theme=radical)]
+**Langages les plus utilisés**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&theme=radical)
-
-//**Langages les plus utilisés**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngounou26&layout=compact)](
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngounou26)](https://github.com/vngounou26/github-readme-stats)
 
 <!--
 **vngounou26/vngounou26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
