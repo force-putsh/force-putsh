@@ -26,10 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngounou26&show_icons=true&locale=en&layout=compact" alt="vngounou26" /></p>
 
-<figure><img src="https://wakatime.com/share/@vngounou26/702fbfe5-fc7e-4cee-b675-90f8575ff3d1.svg" height="300"/>
+<p><img src="https://wakatime.com/share/@vngounou26/702fbfe5-fc7e-4cee-b675-90f8575ff3d1.svg" height="300"/>
 <img src="https://wakatime.com/share/@vngounou26/6f975761-177f-4b8c-93b7-231a3c5a886f.svg" height="300"/>
 <img src="https://wakatime.com/share/@vngounou26/c8cd268c-5f2c-4d2a-8fb4-9163147af439.svg" height="300"/>
-<img src="https://wakatime.com/share/@vngounou26/2a27903c-9ffa-4157-ae1e-dae73f9568da.svg" height="300"/></figure>
+<img src="https://wakatime.com/share/@vngounou26/2a27903c-9ffa-4157-ae1e-dae73f9568da.svg" height="300"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&locale=en" alt="vngounou26" /></p>
 
