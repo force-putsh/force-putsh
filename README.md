@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vngounou26&" alt="vngounou26" /></p>
 
 [![wakatime](https://wakatime.com/badge/github/vngounou26/vngounou26.svg)](https://wakatime.com/badge/github/vngounou26/vngounou26)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vngounou26)](https://github.com/anuraghazra/github-readme-stats)
