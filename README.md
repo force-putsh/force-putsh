@@ -37,7 +37,10 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+XAML       7 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.22 %
+Other      5 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
 ```
+
 <!--END_SECTION:waka-->
