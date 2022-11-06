@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Pérez Ngounou</h1>
 <h3 align="center">Je suis un étudiant en informatique, passionné par le développement web et mobile.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vngounou26&label=Profile%20views&color=0e75b6&style=flat" alt="vngounou26" />
 <img src="https://wakatime.com/badge/user/b2e9dd80-f633-4e17-abca-e54af8c6a554.svg" alt="vngounou26" /></p>
 
@@ -17,6 +15,7 @@
 - 📫 How to reach me **vngounou26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/victor-pèrez-ngounou-4aa2121a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-pèrez-ngounou-4aa2121a1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucqpv3xw8zidx9emc_mn_f8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqpv3xw8zidx9emc_mn_f8w" height="30" width="40" /></a>
@@ -27,7 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngounou26&show_icons=true&locale=en&layout=compact" alt="vngounou26" /></p>
 
-<figure><img src="https://wakatime.com/share/@vngounou26/702fbfe5-fc7e-4cee-b675-90f8575ff3d1.svg"></img></figure>
+<figure><img src="https://wakatime.com/share/@vngounou26/702fbfe5-fc7e-4cee-b675-90f8575ff3d1.svg" height="300"/>
+<img src="https://wakatime.com/share/@vngounou26/6f975761-177f-4b8c-93b7-231a3c5a886f.svg" height="300"/>
+<img src="https://wakatime.com/share/@vngounou26/c8cd268c-5f2c-4d2a-8fb4-9163147af439.svg" height="300"/>
+<img src="https://wakatime.com/share/@vngounou26/2a27903c-9ffa-4157-ae1e-dae73f9568da.svg" height="300"/></figure>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&locale=en" alt="vngounou26" /></p>
 
