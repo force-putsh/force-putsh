@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor Pérez Ngounou</h1>
 <h3 align="center">Je suis un étudiant en informatique, passionné par le développement web et mobile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vngounou26&label=Profile%20views&color=0e75b6&style=flat" alt="vngounou26" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vngounou26&label=Profile%20views&color=0e75b6&style=flat" alt="vngounou26" />
+<img src="https://wakatime.com/badge/user/b2e9dd80-f633-4e17-abca-e54af8c6a554.svg" alt="vngounou26" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vngounou26" alt="vngounou26" /></a> </p>
 
@@ -24,10 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngounou26&show_icons=true&locale=en&layout=compact" alt="vngounou26" /></p>
 
+<figure><img src="https://wakatime.com/share/@vngounou26/702fbfe5-fc7e-4cee-b675-90f8575ff3d1.svg"></img></figure>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vngounou26&show_icons=true&locale=en" alt="vngounou26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vngounou26&" alt="vngounou26" /></p>
-
-[![wakatime](https://wakatime.com/badge/github/vngounou26/vngounou26.svg)](https://wakatime.com/badge/github/vngounou26/vngounou26)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vngounou26)](https://github.com/anuraghazra/github-readme-stats)
