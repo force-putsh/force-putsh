@@ -28,5 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vngounou26&" alt="vngounou26" /></p>
 
-<!--START_SECTION:waka -->
-<!--END_SECTION:waka -->
+[![wakatime](https://wakatime.com/badge/github/vngounou26/vngounou26.svg)](https://wakatime.com/badge/github/vngounou26/vngounou26)
