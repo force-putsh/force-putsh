@@ -39,8 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-XAML       7 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.22 %
-Other      5 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+XAML       8 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.27 %
+Other      5 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
 ```
 
 <!--END_SECTION:waka-->
