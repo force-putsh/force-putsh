@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XAML   2 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
