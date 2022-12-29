@@ -41,8 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   26 mins         ████████████████████████▓   98.96 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Other        1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.44 %
 ```
 
 <!--END_SECTION:waka-->
