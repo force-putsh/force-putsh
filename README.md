@@ -171,11 +171,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       20 hrs 12 mins  ██████████▓░░░░░░░░░░░░░░   43.02 %
-Swift            7 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-JavaScript       5 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-XAML             4 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Binary           3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+XAML             8 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Swift            7 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
+TypeScript       5 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+JavaScript       5 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Binary           4 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
 ```
 
 <!--END_SECTION:waka-->
