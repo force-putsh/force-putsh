@@ -170,7 +170,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript      9 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 %
 C#              8 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.36 %
 Binary          5 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
