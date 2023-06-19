@@ -1,6 +1,6 @@
 # Hi 👋, I'm Victor Pérez Ngounou
 ## L'expérience est comme une sauvegarde, elle est essentielle pour éviter les erreurs passées.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vngounou26&label=Profile%20views&color=0e75b6&style=flat" alt="vngounou26" />
 <img src="https://wakatime.com/badge/user/b2e9dd80-f633-4e17-abca-e54af8c6a554.svg" alt="vngounou26" /></p>
 
@@ -15,8 +15,7 @@
 - 📫 How to reach me **vngounou26@gmail.com**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bluzxw9e09pes4sn48u2f6vj7&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
-
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victor-pèrez-ngounou-4aa2121a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/victor-p%C3%A8rez-ngounou-4aa2121a1?trk=profile-badge">Victor Pèrez Ngounou</a></div>
+>
               
 <h3 align="left">Connect with me:</h3>
 
