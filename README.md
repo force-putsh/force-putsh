@@ -1,6 +1,6 @@
 # Hi 👋, I'm Victor Pérez Ngounou
 ## L'expérience est comme une sauvegarde, elle est essentielle pour éviter les erreurs passées.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vngounou26&label=Profile%20views&color=0e75b6&style=flat" alt="vngounou26" />
 <img src="https://wakatime.com/badge/user/b2e9dd80-f633-4e17-abca-e54af8c6a554.svg" alt="vngounou26" /></p>
 
