@@ -15,6 +15,9 @@
 - 📫 How to reach me **vngounou26@gmail.com**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bluzxw9e09pes4sn48u2f6vj7&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
+
+<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victor-pèrez-ngounou-4aa2121a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/victor-p%C3%A8rez-ngounou-4aa2121a1?trk=profile-badge">Victor Pèrez Ngounou</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
