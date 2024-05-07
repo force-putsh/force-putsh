@@ -158,7 +158,7 @@
 
 ## Activity Graph
 
-![Activity]([https://github-readme-activity-graph.cyclic.app/graph?username=vngounou26&theme=react-dark&hide_border=true&area=true](https://activity-graph.herokuapp.com/graph?username=vngounou26&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github))
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ## Summary
 
