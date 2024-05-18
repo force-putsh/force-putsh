@@ -6,11 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vngounou26" alt="vngounou26" /></a> </p>
 
-- Je suis actuellement étudiant **en Licence professionnel à l'IUT Clermon-Ferand.**
+Je suis un développeur passionné avec un intérêt particulier pour les technologies de l'information et du développement logiciel. J'aime résoudre des problèmes complexes et travailler sur des projets innovants.
 
-- 🌱 Jétudie actuellement **.NET MAUI, Kotlin, C++**
-
-- 💬 Ask me about **C#, .NET, SQL, UML**
+- 🌍 Je vis à Clermont ferrand
+- 💼 Actuellement, je travaille chez Accolades en tant que Ingénieur Logiciel
+- 🌱 Actuellement en train de préparer **un master management de projet informatique** et **un diplome de Mastère européen Expert IT - Applications intelligentes et big data**
+- ⚡ Fait amusant : [quelque chose d'intéressant sur toi]
 
 - 📫 How to reach me **vngounou26@gmail.com**
 
