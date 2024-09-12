@@ -15,8 +15,8 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 
 - 📫 How to reach me **vngounou26@gmail.com**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bluzxw9e09pes4sn48u2f6vj7&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bluzxw9e09pes4sn48u2f6vj7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
               
 <h3 align="left">Connect with me:</h3>
 
