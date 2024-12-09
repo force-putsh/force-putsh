@@ -11,9 +11,9 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 - 🌍 Je vis à Clermont ferrand
 - 💼 Actuellement, je travaille chez Accolades en tant que Ingénieur Logiciel
 - 🌱 Actuellement en train de préparer **un master management de projet informatique** et **un diplome de Mastère européen Expert IT - Applications intelligentes et big data**
-- ⚡ Fait amusant : [quelque chose d'intéressant sur toi]
+<!--  - ⚡ Fait amusant : [quelque chose d'intéressant sur toi] -->
 
-- 📫 How to reach me **vngounou26@gmail.com**
+<!-- - 📫 How to reach me **vngounou26@gmail.com** -->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bluzxw9e09pes4sn48u2f6vj7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
