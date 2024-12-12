@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              8 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.78 %
-JSON              3 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Python            2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Groovy            1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Markdown          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Dart              11 hrs 49 mins  ██████████████▓░░░░░░░░░░   58.90 %
+JSON              3 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+Python            2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Groovy            1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Markdown          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
