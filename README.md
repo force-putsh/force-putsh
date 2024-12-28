@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       8 hrs 27 mins   ███████████████░░░░░░░░░░   60.13 %
-Razor      3 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-Blazor     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-HTML       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-CSS        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Dart       8 hrs 27 mins   ███████████████▒░░░░░░░░░   61.57 %
+Razor      3 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+Blazor     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+CSS        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+HTML       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
