@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         17 hrs 7 mins   ███████████████▓░░░░░░░░░   62.97 %
-ERB          2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-JSON         2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Ruby         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-XAML         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Dart         13 hrs 30 mins  ███████████████▒░░░░░░░░░   60.98 %
+ERB          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+JSON         2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Ruby         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Other        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
