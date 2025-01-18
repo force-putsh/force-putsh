@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              14 hrs 17 mins  ██████████████████░░░░░░░   72.26 %
-PowerShell        1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Bash              1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Groovy            1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON              56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Dart           9 hrs 41 mins   █████████████▒░░░░░░░░░░░   52.67 %
+XML            1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+TypeScript     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+PowerShell     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Bash           1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
