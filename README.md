@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              10 hrs 41 mins  ████████████▒░░░░░░░░░░░░   49.06 %
-C#                3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Groovy            2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Binary            2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Razor             1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Dart              16 hrs 10 mins  ██████████████▒░░░░░░░░░░   57.28 %
+Groovy            3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+C#                3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Binary            2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Razor             1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 ```
 
 <!--END_SECTION:waka-->
