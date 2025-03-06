@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-C#           11 hrs 29 mins  ████████▓░░░░░░░░░░░░░░░░   34.69 %
-Binary       10 hrs 57 mins  ████████▒░░░░░░░░░░░░░░░░   33.08 %
-Dart         4 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-XAML         3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-JSON         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Binary            13 hrs 41 mins  ██████████▒░░░░░░░░░░░░░░   41.73 %
+C#                13 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.62 %
+XAML              4 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Razor             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Java Properties   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
