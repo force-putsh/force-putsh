@@ -174,8 +174,10 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Razor   2 mins          ██████████████████████▒░░   88.96 %
-C#      0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+C#       23 mins         ██████████████████████▓░░   90.53 %
+Razor    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Csproj   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
