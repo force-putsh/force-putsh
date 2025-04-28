@@ -174,7 +174,8 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML    1 hr 28 mins    ██████████████████░░░░░░░   71.50 %
+Razor   35 mins         ███████░░░░░░░░░░░░░░░░░░   28.50 %
 ```
 
 <!--END_SECTION:waka-->
