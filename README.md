@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       12 hrs 10 mins  ██████████████▓░░░░░░░░░░   58.68 %
-JavaScript   1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Other        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-C#           1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Binary       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Vue.js                             13 hrs 56 mins  █████████████░░░░░░░░░░░░   52.17 %
+C#                                 3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Terraform                          2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+JavaScript                         1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Other                              1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
