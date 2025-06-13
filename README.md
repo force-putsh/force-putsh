@@ -174,11 +174,8 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 5 mins    ██████████████░░░░░░░░░░░   56.25 %
-YAML         2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Bash         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Other        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Markdown     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Python   1 hr 25 mins    ███████████████▒░░░░░░░░░   60.87 %
+Other    55 mins         █████████▓░░░░░░░░░░░░░░░   39.13 %
 ```
 
 <!--END_SECTION:waka-->
