@@ -174,8 +174,7 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 25 mins    ███████████████▒░░░░░░░░░   60.87 %
-Other    55 mins         █████████▓░░░░░░░░░░░░░░░   39.13 %
+Other   55 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
