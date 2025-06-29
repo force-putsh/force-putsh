@@ -174,11 +174,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-C#             40 hrs 32 mins  █████████████████████░░░░   83.94 %
-YAML           2 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Binary         1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-XML            56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Razor          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+C#             38 hrs 16 mins  ███████████████████░░░░░░   75.62 %
+Binary         4 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+YAML           2 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+XML            1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+XAML           1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
