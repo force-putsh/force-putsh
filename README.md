@@ -174,9 +174,7 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   3 hrs 30 mins   ████████████████████▒░░░░   80.95 %
-C#           39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-SSH Config   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+C#   39 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
