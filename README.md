@@ -176,7 +176,9 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML    1 hr 1 min      ████████████████████▒░░░░   81.86 %
+XAML   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
