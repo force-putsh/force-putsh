@@ -176,7 +176,10 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+VB.NET   2 hrs 58 mins   ███████████████░░░░░░░░░░   59.62 %
+Other    1 hr 58 mins    ██████████░░░░░░░░░░░░░░░   39.76 %
+C#       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
