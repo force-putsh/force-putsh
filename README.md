@@ -176,11 +176,11 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 <!--START_SECTION:waka-->
 
 ```txt
-VB.NET       20 hrs 40 mins  █████████████▒░░░░░░░░░░░   52.86 %
-Other        5 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-SQL          4 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-C#           2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Markdown     2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+VB.NET       23 hrs 42 mins  ███████████████░░░░░░░░░░   60.16 %
+Other        7 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+XML          3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+C#           2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+PowerShell   1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
