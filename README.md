@@ -3,13 +3,13 @@
 ## L'expérience est comme une sauvegarde, elle est essentielle pour éviter les erreurs passées.
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=force-putsh&label=Profile%20views&color=0e75b6&style=flat" alt="force-putsh" />
-  <img src="https://wakatime.com/badge/user/b2e9dd80-f633-4e17-abca-e54af8c6a554.svg" alt="force-putsh" />
+  <img src="https://komarev.com/ghpvc/?username=vic-odes&label=Profile%20views&color=0e75b6&style=flat" alt="vic-odes" />
+  <img src="https://wakatime.com/badge/user/b2e9dd80-f633-4e17-abca-e54af8c6a554.svg" alt="vic-odes" />
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=force-putsh&theme=darkhub&no-frame=true&margin-w=15" alt="force-putsh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vic-odes&theme=darkhub&no-frame=true&margin-w=15" alt="vic-odes" />
   </a> 
 </p>
 
@@ -148,28 +148,28 @@ Je suis un développeur passionné avec un intérêt particulier pour les techno
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=force-putsh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vic-odes&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=force-putsh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vic-odes&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=force-putsh&custom_title=Victor's%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vic-odes&custom_title=Victor's%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00/github-readme-activity-graph)
 
 ## 📊 Summary
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=force-putsh&theme=monokai)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vic-odes&theme=monokai)
 
 ## 🔝 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=force-putsh&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-odes&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=force-putsh&theme=monokai)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vic-odes&theme=monokai)
 
 ## ⏱️ Coding Stats
 
@@ -188,9 +188,9 @@ PowerShell   1 hr 37 mins    █░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=force-putsh&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vic-odes&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/force-putsh">force-putsh</a>
+  ⭐️ From <a href="https://github.com/vic-odes">vic-odes</a>
 </p>
