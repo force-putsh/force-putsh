@@ -196,11 +196,11 @@ const victor = {
 <!--START_SECTION:waka-->
 
 ```txt
-Other                              6 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
-XML                                4 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
-VB.NET                             3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Python                             2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-PowerShell                         2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Other                              8 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+XML                                4 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+VB.NET                             3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Python                             2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+PowerShell                         2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
